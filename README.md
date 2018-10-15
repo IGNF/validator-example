@@ -1,5 +1,11 @@
 # validator-example
 
+## Description
+
+> Exemples d'utilisations du validateur https://github.com/IGNF/validator
+
+Usage samples for [IGNF/validator](https://github.com/IGNF/validator)
+
 ## Configurations
 
 * config/GEOFLA_2015
