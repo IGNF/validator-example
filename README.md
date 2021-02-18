@@ -2,7 +2,7 @@
 
 ## Description
 
-> Données de test du validateur-api https://github.com/IGNF/validator-api
+> Données de test du validator-api https://github.com/IGNF/validator-api
 
 Test data for [IGNF/validator-api](https://github.com/IGNF/validator-api)
 
