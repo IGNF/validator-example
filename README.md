@@ -1,5 +1,7 @@
 # validator-example
 
+> ARCHIVED : integrated into [IGNF/validator](https://github.com/IGNF/validator) ( see https://github.com/IGNF/validator/pull/236 )
+
 ## Description
 
 > Données de test du validator-api https://github.com/IGNF/validator-api
